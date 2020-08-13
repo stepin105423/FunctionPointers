@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1597351328 source:c:\users\aishwarya\desktop\c_programs\functionpointer\fun_sub.c
+
+1597351328 source:c:\users\aishwarya\desktop\c_programs\functionpointer\fun_add.c
+
+1597353043 source:c:\users\aishwarya\desktop\c_programs\functionpointer\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FuncPointer.h"
+
+1597353043 c:\users\aishwarya\desktop\c_programs\functionpointer\funcpointer.h
+
